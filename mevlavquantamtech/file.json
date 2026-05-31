@@ -1,7 +1,0 @@
-{
-  "homepage": "https://YOUR_USERNAME.github.io/mevlav-quantam-tech",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  }
-}
