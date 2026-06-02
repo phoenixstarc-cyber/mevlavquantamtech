@@ -165,7 +165,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-white mb-1">Call Us</h4>
-                  <p className="text-slate-400">+1 (555) 123-4567</p>
+                  <p className="text-slate-400">+91 9650068341 </p>
                 </div>
               </div>
             </div>
@@ -177,7 +177,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-white mb-1">Visit Us</h4>
-                  <p className="text-slate-400">123 Tech Innovation Drive<br />Silicon Valley, CA 94025</p>
+                  <p className="text-slate-400"> 0112 Tech Innovation Drive<br />Silicon Valley, CA 94025</p>
                 </div>
               </div>
             </div>
